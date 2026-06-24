@@ -20,6 +20,11 @@ models/
 # Word temp/lock files
 ~$*
 
+# Local-only authoring artifacts (kept off the public repo)
+generate_proposal.py
+*.docx
+*.pdf
+
 # OS / editor
 .DS_Store
 Thumbs.db

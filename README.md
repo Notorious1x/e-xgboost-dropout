@@ -38,6 +38,10 @@ data/                  # (gitignored) local data — never committed
 
 Proposal stage. Ethics application (KNUST CHRPE) in progress; data collection pending approval.
 
+## Repository
+
+https://github.com/Notorious1x/e-xgboost-dropout
+
 ## Author
 
 Adams Caleb Yeboah Yaw — Department of Computer Science, KNUST — pokaa96@gmail.com
