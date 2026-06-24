@@ -1,0 +1,24 @@
+# Data — never commit participant data (ethics/privacy)
+data/
+*.csv
+*.parquet
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Models / outputs
+*.joblib
+*.pkl
+models/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
