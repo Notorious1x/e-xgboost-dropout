@@ -17,6 +17,9 @@ env/
 *.pkl
 models/
 
+# Word temp/lock files
+~$*
+
 # OS / editor
 .DS_Store
 Thumbs.db
